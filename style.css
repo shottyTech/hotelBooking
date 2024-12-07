@@ -76,8 +76,8 @@ nav .button a:hover{
     color: inherit;
     padding:10px 20px;
     background-color: indianred;
-    border-radius: 8px;
     font-size: 20px; 
+    letter-spacing: 5px;
 }
 .h-text a:hover{
     cursor: pointer;
